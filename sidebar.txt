@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[pfl:home|Door43 (pfl)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-pfl|d43-pfl repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-pfl/archive/master.zip|d43-pfl.zip]]
+
+**Recent Changes**
+{{changes>ns = pfl}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/pfl|Ethnologue data]]
+
